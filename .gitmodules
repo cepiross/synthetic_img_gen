@@ -1,0 +1,3 @@
+[submodule "json_reader"]
+	path = json_reader
+	url = https://cepiross@github.com/cepiross/json_reader.git
