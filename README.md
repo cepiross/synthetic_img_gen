@@ -2,11 +2,14 @@
 
 This repository presents source code necessary to reproduce the automation flow addressed in the following paper:
 ```
-@unpublished{Choi2018ISCAS_ProgressiveImgGen,
+@inproceedings{Choi2018ISCAS_ProgressiveImgGen,
   title={{Stochastic Functional Verification of DNN Design through Progressive Virtual Dataset Generation}},
   author={Jinhang Choi and Kevin M. Irick and Justin Hardin and Weichao Qiu and Alan Yuille and Jack Sampson and Vijaykrishnan Narayanan},
-  note={Accepted to International Symposium on Circuits and Systems (ISCAS)},
-  year={2018}
+  note={IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages={1-5},
+  month={May},
+  year={2018},
+  doi = {10.1109/ISCAS.2018.8351686}
 }
 ```
 
